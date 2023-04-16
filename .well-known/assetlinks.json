@@ -1,12 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.beheadsup_employee",
-      "sha256_cert_fingerprints":
-        ["23:70:B2:7D:EC:25:D4:87:35:E2:00:B2:3D:C7:9C:FE:8B:04:94:A3:F3:48:69:7E:78:22:49:5F:10:16:2B:88"]
-    }
-  }
-]
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.beheadsup_employee",
+               "sha256_cert_fingerprints": ["23:70:B2:7D:EC:25:D4:87:35:E2:00:B2:3D:C7:9C:FE:8B:04:94:A3:F3:48:69:7E:78:22:49:5F:10:16:2B:88"] }
+}]
